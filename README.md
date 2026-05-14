@@ -80,7 +80,7 @@ Prerequisites
 Node.js
 MongoDB
 
-## Commands 
+### Commands 
 Install Dependencies
 
 Frontend
@@ -98,13 +98,13 @@ npm start
 node server.js
 
 
- ## Future Enhancements
+ ### Future Enhancements
  AI-based resume suggestions
  More resume templates
  Mobile app support
  
 
-## Note -
+### Note -
 This project demonstrates:
 
 Full-stack MERN development
