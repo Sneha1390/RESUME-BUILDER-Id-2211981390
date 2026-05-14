@@ -1,10 +1,17 @@
-🚀 Create Professional Resumes Easily with Modern Web Technologies
+#  Project Title
 
-**Resume Builder** is a full-stack web application designed to help users create professional and well-structured resumes quickly and efficiently. It simplifies resume creation with an easy-to-use interface, modern templates, and PDF download functionality.
+**Project – Resume Builder**
+
+### Type - Copyright 
+### Current Status of Copyright - Filled and submitted the copyright application form .  Status currently in Waiting.
+
+
+
+**Resume Builder** is a full-stack web application designed to help users create professional and well-structured resumes quickly and efficiently. It simplifies resume creation with an easy-to-use interface, modern templates, and PDF download functionality .
 
 ---
 
-## 👩‍💻 Developer Details
+## Details
 
 | Name | Roll Number |
 |------|-------------|
@@ -12,47 +19,42 @@
 
 ---
 
-# 📌 Project Title
 
-**Project – Resume Builder**
+##  Tech Stack
 
----
+###  Frontend
+-  React.js
+-  HTML
+-  CSS
+-  JavaScript
 
-## 🚀 Tech Stack
+###  Backend
+-  Node.js
+-  Express.js
 
-### 🎨 Frontend
-- ⚛️ React.js
-- 🎨 HTML
-- 💅 CSS
-- ✨ JavaScript
-
-### 🛠️ Backend
-- 🟢 Node.js
-- 🚏 Express.js
-
-### 🍃 Database
+###  Database
 - MongoDB
 
-### 🧰 Development Tools
-- 🔧 Git & GitHub
+###  Development Tools
+-  Git & GitHub
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 🔐 User Registration & Login
-- 📝 Add personal information, education, skills & experience
-- 🎨 Choose resume templates
-- 📄 Download resume as PDF
-- 📱 Responsive design
-- ⚡ Fast and user-friendly interface
+-  User Authentication(Login/ SignUp)
+-  Add personal information, education, skills & experience
+-  Choose resume templates
+-  Download resume as PDF
+-  Responsive design
+-  Fast and user-friendly interface
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```bash
-resume-builder/
+Resume-Builder/
 ├── client/
 │   ├── src/
 │   └── package.json
@@ -66,37 +68,41 @@ resume-builder/
 ├── .env
 ├── README.md
 └── package.json
-⚙️ Installation & Setup
-🔧 Prerequisites
-Node.js
-MongoDB
-🖥️ Clone the Repository
+
+Clone the Repository
 git clone https://github.com/your-username/resume-builder.git
 cd resume-builder
-📦 Install Dependencies
+
+Installation & Setup
+Prerequisites
+Node.js
+MongoDB
+
+## Commands 
+Install Dependencies
+
 Frontend
+cd RESUME-BUILDER
 cd client
 npm install
 npm start
+npm run dev
+
 Backend
+cd RESUME-BUILDER
 cd server
 npm install
 npm start
-🔐 Environment Variables
-Create a .env file in the server directory:
+node server.js
 
-PORT=5000
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-📌 Future Enhancements
-🤖 AI-based resume suggestions
-🎨 More resume templates
-☁️ Cloud resume storage
-📱 Mobile app support
-📄 License
-This project is licensed under the MIT License.
 
-💡 Author Note
+ ## Future Enhancements
+ AI-based resume suggestions
+ More resume templates
+ Mobile app support
+ 
+
+## Note -
 This project demonstrates:
 
 Full-stack MERN development
