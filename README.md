@@ -2,10 +2,12 @@
 
 **Project – Resume Builder**
 
+---
+
 ### Type - Copyright 
 ### Current Status of Copyright - Filled and submitted the copyright application form .  Status currently in Waiting.
 
-
+---
 
 **Resume Builder** is a full-stack web application designed to help users create professional and well-structured resumes quickly and efficiently. It simplifies resume creation with an easy-to-use interface, modern templates, and PDF download functionality .
 
